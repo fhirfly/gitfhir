@@ -1,0 +1,11 @@
+{
+    "resourceType": "OperationOutcome",
+    "id": "deletesuccess"
+    "issue": [
+        {
+            "severity": "information",
+            "code": "informational",
+            "diagnostics": "Successfully deleted 1 resource(s) in 29ms"
+        }
+    ]
+}
