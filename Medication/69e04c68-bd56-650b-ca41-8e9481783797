@@ -1,0 +1,1 @@
+{"resourceType":"Medication","id":"69e04c68-bd56-650b-ca41-8e9481783797","meta":{"profile":["http://hl7.org/fhir/us/core/StructureDefinition/us-core-medication"]},"code":{"coding":[{"system":"http://www.nlm.nih.gov/research/umls/rxnorm","code":"198440","display":"Acetaminophen 500 MG Oral Tablet"}],"text":"Acetaminophen 500 MG Oral Tablet"},"status":"active"}
